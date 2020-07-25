@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.example.people77.controller;
 
 import java.net.URI;
 import java.net.URISyntaxException;
